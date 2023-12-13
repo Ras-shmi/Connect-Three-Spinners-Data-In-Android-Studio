@@ -1,1 +1,1 @@
-# Connect-Three-Spinners-Data-In-Android-Studio
+# Connect-Three-Spinner-Data-In-Android-Studio
